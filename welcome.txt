@@ -1,1 +1,1 @@
-Welcome from MAIN branch!
+Welcome from both MAIN and CONFLICT branches!
