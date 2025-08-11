@@ -1,11 +1,11 @@
-# GitDemo 
-# Merge Conflict Task
+# Git Hands-On Labs
 
-This repository demonstrates:
-- Creating multiple branches
-- Simulating and resolving merge conflicts
-- Finalizing the result in the `main` branch
+This repository contains exercises from Git-HOL 1 to Git-HOL 5, including:
+- Branch creation
+- File changes on different branches
+- Merge conflicts and resolution
+- Adding .gitignore
+- Cleaning up and pushing to remote
 
-# Final Output
+Final merged file: hello.xml
 
-✅ The file `welcome.txt` contains:
